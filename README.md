@@ -1,0 +1,5 @@
+- Adição de paginação na lista de produtos
+- Filtros pra listagem dinâmica
+- Customizações de erros
+- Camada service, criar beans @Service
+- Ao trabalhar com datas, trabalhar com padronização de datas
